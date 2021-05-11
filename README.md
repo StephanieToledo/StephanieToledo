@@ -46,6 +46,6 @@
      <img src="https://img.icons8.com/color/2x/intellij-idea.png" width="50" height="50" alt="ide-intellij" style="max-width:100%; display:flex"></img>
   </p>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieToledo&layout=compact&theme=dracula))](https://github.com/StephanieToledo/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieToledo&layout=compact&theme=dracula)
 
 
